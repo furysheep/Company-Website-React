@@ -30,7 +30,7 @@ function Contact() {
                   type="text"
                   className="form-control"
                   id="exampleFormControlInput1"
-                  placeholder="+91-"
+                  placeholder="+1-"
                 />
               </div>
               <div className="form-group pt-3">

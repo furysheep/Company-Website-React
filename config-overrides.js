@@ -4,7 +4,7 @@ module.exports = function override(config, env) {
   if (!config.plugins) {
     config.plugins = [];
   }
-  removeModuleScopePlugin()(config);
+  // removeModuleScopePlugin()(config);
 
   return config;
 };
